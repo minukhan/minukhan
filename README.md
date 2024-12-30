@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
 
-)](https://capsule-render.vercel.app/api?type=TYPE&color=COLOR&height=HEIGHT&section=SECTION&text=TEXT&fontSize=FONTSIZE)
+
 ## 👋 Welcome to Minukhan's GitHub!
 
 안녕하세요!  
