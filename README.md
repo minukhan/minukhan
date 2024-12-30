@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minwook's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
   
   <h1 style="animation: blinker 1.5s linear infinite;">Minwook's GitHub</h1>
-  
-  <h2 style="animation: blinker2 2s linear infinite; color: #FF5733;">Welcome to my GitHub!</h2>
 </div>
 
 
