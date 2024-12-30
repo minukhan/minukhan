@@ -50,8 +50,9 @@
 
 ### 📫 연락 방법
 
-- 이메일: [dnrals7929@naver.com](mailto:dnrals7929@naver.com)  
-- 링크드인: [LinkedIn Profile](https://linkedin.com/in/minukhan)  
+- Email: [dnrals7929@naver.com](mailto:dnrals7929@naver.com)  
+- Blog: [Blog](https://blog.naver.com/dnrals7929)  
+- Phone: [010-7190-7929](010-7190-7929)  
 
 
 
