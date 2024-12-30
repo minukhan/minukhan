@@ -21,20 +21,18 @@
 ---
 
 ### 💬 관심사
-
-- **백엔드 기술**: 대규모 분산 시스템, 데이터베이스 설계  
-- **DevOps**: CI/CD 파이프라인 구축  
-- **프론트엔드**: 사용자가 편리한 UI/UX 설계  
-
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
+![JPA](https://img.shields.io/badge/-JPA-007396?logo=java&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ---
 
-### 🛠️ 기술 스택
+### 🛠️ 사용해본 기술 스택
 
 #### Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
 ![JPA](https://img.shields.io/badge/-JPA-007396?logo=java&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white&style=flat)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
