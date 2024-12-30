@@ -1,5 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlign=50&fontAlignY=40&desc=Explore%20my%20projects%20and%20journey&descAlign=50&descAlignY=60&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minwook's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=40&desc=Explore%20my%20projects%20and%20journey&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
+  <h1 style="animation: blinker 1.5s linear infinite;">Minwook's GitHub</h1>
+</div>
 
+<style>
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+h1 {
+  font-size: 30px;
+  color: #FF5733;
+  font-weight: bold;
+  animation: blinker 1.5s linear infinite;
+}
+</style>
 
 ## 👋 Welcome to Minukhan's GitHub!
 
