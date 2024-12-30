@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://github.com/minukhan/minukhan/assets/your-image-path.gif" alt="Profile Banner" />
-</div>
 
+)](https://capsule-render.vercel.app/api?type=TYPE&color=COLOR&height=HEIGHT&section=SECTION&text=TEXT&fontSize=FONTSIZE)
 ## 👋 Welcome to Minukhan's GitHub!
 
 안녕하세요!  
