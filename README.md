@@ -6,7 +6,7 @@
 ## 👋 Hi, I'm MinWook Han!!
 
 ### 💻 About Me
-I'm a passionate backend developer with a strong interest in building efficient, scalable, and maintainable server-side systems. I enjoy solving complex problems through code and ensuring that applications perform reliably at scale.
+I'm a passionate backend developer with a strong interest in building efficient, scalable, and maintainable server-side systems. 
 
 🔭 **I’m currently working on**: Hyundai AutoEver SW School Web/App course  
 🌱 **I’m currently learning**: Advanced backend development techniques with Spring Boot, Java, and optimizing system architecture  
