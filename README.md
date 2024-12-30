@@ -38,6 +38,9 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
 ![JPA](https://img.shields.io/badge/-JPA-007396?logo=java&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![JSP](https://img.shields.io/badge/-JSP-F7B731?logo=java&logoColor=white&style=flat)
+![MyBatis](https://img.shields.io/badge/-MyBatis-8A1D1D?logo=java&logoColor=white&style=flat)
+
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
