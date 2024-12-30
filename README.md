@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://github.com/minukhan/minukhan/assets/your-image-path.gif" alt="Profile Banner" />
+</div>
+
 ## 👋 Welcome to Minukhan's GitHub!
 
 안녕하세요!  
-저는 백엔드 개발자를 목표로 하고 있으며, 서버 개발부터 데이터베이스 설계, 클라우드 배포까지 다양한 경험을 쌓아가고 있습니다. 
-프론트엔드로는 React를 다뤄본 경험이 있으며, 풀스택 개발에도 관심이 많습니다.  
+저는 백엔드 개발자를 목표로 하고 있으며, 서버 개발부터 데이터베이스 설계, 클라우드 배포까지 다양한 경험을 쌓아가고 있습니다. 프론트엔드로는 React를 다뤄본 경험이 있으며, 풀스택 개발에도 관심이 많습니다.
 
 ---
+
 
 ### 🔭 주요 프로젝트
 
