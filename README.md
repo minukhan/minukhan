@@ -48,6 +48,12 @@
 
 ---
 
+### 📫 연락 방법
+
+- 이메일: [dnrals7929@naver.com](mailto:dnrals7929@naver.com)  
+- 링크드인: [LinkedIn Profile](https://linkedin.com/in/minukhan)  
+
+
 
 ### 🏆 깃허브 통계
 
