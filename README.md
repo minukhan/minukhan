@@ -5,12 +5,6 @@
 
 ---
 
-### 🔭 현재 진행 중인 프로젝트
-- **[Project Name]**: 간단한 설명 (링크로 연결)
-- **[Project Name]**: 간단한 설명 (링크로 연결)
-
----
-
 ### 🌱 현재 배우고 있는 것들
 - 📖 **React, Vue.js**: 프론트엔드 개발 심화
 - 🐍 **Python**: 데이터 분석 및 머신러닝
@@ -18,32 +12,6 @@
 
 ---
 
-### 🤝 협업 및 도움
-- 🛠️ 협업을 환영합니다! [Repository Name](링크)에서 Issue를 열어 주세요.
-- 질문이나 의견이 있다면 주저하지 말고 연락해 주세요. 😊
-
----
-
-### 💬 저에게 물어보세요!
-- 웹 개발 (프론트엔드 & 백엔드)
-- 클라우드 배포 및 관리
-- 오픈소스 기여
-
----
-
-### 📫 연락 방법
-- 이메일: [your_email@example.com](mailto:your_email@example.com)
-- 링크드인: [LinkedIn Profile](https://linkedin.com/in/yourusername)
-- 블로그: [Your Blog](https://yourblog.com)
-
----
-
-### ⚡ 재미있는 사실
-- 🎨 저는 그림 그리기를 좋아합니다!
-- 🌎 여행을 좋아하며, 현재까지 [X]개의 나라를 다녀왔습니다.
-- 🎮 게임 개발에도 관심이 있습니다.
-
----
 
 ### 🛠️ 기술 스택
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
