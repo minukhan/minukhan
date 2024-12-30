@@ -21,10 +21,13 @@
 ---
 
 ### 💬 관심사
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
-![JPA](https://img.shields.io/badge/-JPA-007396?logo=java&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![JPA](https://img.shields.io/badge/-JPA-007396?logo=java&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+
 ---
 
 ### 🛠️ 사용해본 기술 스택
