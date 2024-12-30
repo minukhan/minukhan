@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlign=50&fontAlignY=40&desc=Explore%20my%20projects%20and%20journey&descAlign=50&descAlignY=60&animation=fadeIn)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minwook's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=40&desc=Explore%20my%20projects%20and%20journey&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
+  
   <h1 style="animation: blinker 1.5s linear infinite;">Minwook's GitHub</h1>
+  
+  <h2 style="animation: blinker2 2s linear infinite; color: #FF5733;">Welcome to my GitHub!</h2>
 </div>
 
 <style>
@@ -10,13 +12,28 @@
     opacity: 0;
   }
 }
+
+@keyframes blinker2 {
+  50% {
+    opacity: 0;
+  }
+}
+
 h1 {
-  font-size: 30px;
-  color: #FF5733;
+  font-size: 45px;
+  color: #4a90e2; /* 헤더 텍스트 색상 */
   font-weight: bold;
   animation: blinker 1.5s linear infinite;
 }
+
+h2 {
+  font-size: 25px;
+  color: #FF5733; /* 소제목 색상 */
+  font-weight: bold;
+  animation: blinker2 2s linear infinite;
+}
 </style>
+
 
 ## 👋 Welcome to Minukhan's GitHub!
 
