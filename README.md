@@ -5,22 +5,24 @@
 
 ## 👋 Hi, I'm MinWook Han!!
 
-안녕하세요!  
-저는 백엔드 개발자를 목표로 하고 있으며, 서버 개발부터 데이터베이스 설계, 클라우드 배포까지 다양한 경험을 쌓아가고 있습니다.
+### 💻 About Me
+I'm a passionate backend developer with a strong interest in building efficient, scalable, and maintainable server-side systems. I enjoy solving complex problems through code and ensuring that applications perform reliably at scale.
 
-프론트엔드로는 React를 다뤄본 경험이 있으며, 풀스택 개발에도 관심이 많습니다.
-
----
-
-### 🌱 현재 배우고 있는 것들
-
-- 🐍 **Python**: 데이터 분석과 자동화 작업에 활용 중  
-- 🛠️ **Docker & Kubernetes**: 컨테이너화 및 클러스터 관리  
-- ☁️ **AWS & GCP**: 클라우드 서비스 활용과 최적화  
+🔭 **I’m currently working on**: Hyundai AutoEver SW School Web/App course  
+🌱 **I’m currently learning**: Advanced backend development techniques with Spring Boot, Java, and optimizing system architecture  
+🌈 **I'm excited to connect with fellow developers and explore new opportunities in the backend development world**.
 
 ---
 
-### 💬 관심사
+### 🌱 Things I'm Currently Interested In
+
+- 🗃️ **DB Design**: Designing efficient and scalable database structures
+- 🧪 **TDD (Test-Driven Development)**: Understanding and practicing the test-first development approach
+- 📚 **Clean Code**: Writing readable, maintainable, and high-quality code
+
+---
+
+### 💬 Tech Stacks I'm Interested In
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![JPA](https://img.shields.io/badge/-JPA-007396?logo=java&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -30,7 +32,7 @@
 
 ---
 
-### 🛠️ 사용해본 기술 스택
+### 🛠️ Tech Stacks I've Worked With
 
 #### Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
@@ -70,7 +72,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 ---
 
-### 📫 연락 방법
+### 📫 How to Reach Me
 
 - Email: [dnrals7929@naver.com](mailto:dnrals7929@naver.com)  
 - Blog: [Blog](https://blog.naver.com/dnrals7929)  
@@ -78,6 +80,6 @@
 
 
 
-### 🏆 깃허브 통계
+### 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minukhan&show_icons=true&theme=radical)
