@@ -6,19 +6,19 @@
 ## 👋 Hi, I'm MinWook Han!!
 
 ### 💻 About Me
-I'm a passionate backend developer with a strong interest in building efficient, scalable, and maintainable server-side systems. 
+저는 효율적이고 확장 가능한 서버 사이드 시스템을 구축하는 데 큰 관심을 가진 열정적인 백엔드 개발자입니다.
 
-🔭 **I’m currently working on**: Hyundai AutoEver SW School Web/App course  
-🌱 **I’m currently learning**: Advanced backend development techniques with Spring Boot, Java, and optimizing system architecture  
-🌈 **I'm excited to connect with fellow developers and explore new opportunities in the backend development world**.
+🔭 **현재 작업 중인 것**: 현대 AutoEver SW School Web/App 과정  
+🌱 **현재 배우고 있는 것**: Spring Boot, Java를 활용한 고급 백엔드 개발 기법과 시스템 아키텍처 최적화  
+🌈 **백엔드 개발 분야에서 새로운 개발자들과 소통하고 기술을 학습하는 것에 흥미가 있습니다**.
 
 ---
 
-### 🌱 Things I'm Currently Interested In
+### 🌱 현재 흥미로운 것들
 
-- 🗃️ **DB Design**: Designing efficient and scalable database structures
-- 🧪 **TDD (Test-Driven Development)**: Understanding and practicing the test-first development approach
-- 📚 **Clean Code**: Writing readable, maintainable, and high-quality code
+- 🗃️ **DB 설계**: 효율적이고 확장 가능한 데이터베이스 구조 설계
+- 🧪 **TDD (테스트 코드 주도 개발)**: 테스트 우선 개발 방식에 대한 이해와 실습
+- 📚 **클린 코드**: 가독성 높고 유지보수 용이하며 고품질의 코드 작성
 
 ---
 
