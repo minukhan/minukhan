@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinWook's%20%20GitHub!&fontSize=40)
 
 
 ## 👋 Welcome to Minukhan's GitHub!
