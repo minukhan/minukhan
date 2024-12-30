@@ -7,6 +7,7 @@
 
 안녕하세요!  
 저는 백엔드 개발자를 목표로 하고 있으며, 서버 개발부터 데이터베이스 설계, 클라우드 배포까지 다양한 경험을 쌓아가고 있습니다.
+
 프론트엔드로는 React를 다뤄본 경험이 있으며, 풀스택 개발에도 관심이 많습니다.
 
 ---
@@ -16,14 +17,6 @@
 - 🐍 **Python**: 데이터 분석과 자동화 작업에 활용 중  
 - 🛠️ **Docker & Kubernetes**: 컨테이너화 및 클러스터 관리  
 - ☁️ **AWS & GCP**: 클라우드 서비스 활용과 최적화  
-
----
-
-### 🤝 협업과 도움
-
-- 🛠️ 팀 프로젝트 및 오픈소스 기여를 항상 환영합니다.  
-- 백엔드 아키텍처 설계나 API 관련 도움을 드릴 수 있습니다.  
-- 질문은 언제든 환영입니다! 😊  
 
 ---
 
@@ -59,4 +52,3 @@
 ### 🏆 깃허브 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minukhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minukhan&layout=compact&theme=radical)
