@@ -41,6 +41,7 @@
 ![JSP](https://img.shields.io/badge/-JSP-F7B731?logo=java&logoColor=white&style=flat)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-8A1D1D?logo=java&logoColor=white&style=flat)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F)
+![OAuth2](https://img.shields.io/badge/OAuth2%20(Keycloak)-35495E?style=for-the-badge&logo=keycloak&logoColor=white)
 
 
 #### Database
