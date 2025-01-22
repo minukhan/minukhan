@@ -40,6 +40,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![JSP](https://img.shields.io/badge/-JSP-F7B731?logo=java&logoColor=white&style=flat)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-8A1D1D?logo=java&logoColor=white&style=flat)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F)
 
 
 #### Database
