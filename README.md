@@ -10,6 +10,9 @@
 
 🔭 **현재 작업 중인 것**: 현대 AutoEver SW School Web/App 과정  
 🌱 **현재 배우고 있는 것**: Spring Boot, Java를 활용한 고급 백엔드 개발 기법과 시스템 아키텍처 최적화  
+![MSA](https://img.shields.io/badge/-MSA-FF9900?logo=architecture&logoColor=white&style=for-the-badge)
+![Factory Method Pattern](https://img.shields.io/badge/-Factory%20Method-005F0F?logo=pattern&logoColor=white&style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/-Hexagonal%20Architecture-333333?logo=architecture&logoColor=white&style=for-the-badge)
 🌈 **백엔드 개발 분야에서 새로운 개발자들과 소통하고 기술을 학습하는 것에 흥미가 있습니다**.
 
 ---
@@ -30,9 +33,7 @@
 ![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![MSA](https://img.shields.io/badge/-MSA-FF9900?logo=architecture&logoColor=white&style=for-the-badge)
-![Factory Method Pattern](https://img.shields.io/badge/-Factory%20Method-005F0F?logo=pattern&logoColor=white&style=for-the-badge)
-![Hexagonal Architecture](https://img.shields.io/badge/-Hexagonal%20Architecture-333333?logo=architecture&logoColor=white&style=for-the-badge)
+
 
 ---
 
