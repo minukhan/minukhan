@@ -68,9 +68,12 @@
 ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat)
 
 ### 🛠️ DevOps  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)  
+![GitLab Runner](https://img.shields.io/badge/-GitLab%20Runner-FC6D26?logo=gitlab&logoColor=white&style=flat)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazonaws&logoColor=white&style=flat)  
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazonaws&logoColor=white&style=flat)  
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 
