@@ -111,4 +111,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minukhan&show_icons=true&theme=radical)
 
 ### 🥇 Baekjoon / solved.ac
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=minukhan)](https://solved.ac/profile/dnrals1000) 
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=dnrals1000)](https://solved.ac/profile/dnrals1000) 
